@@ -1,0 +1,48 @@
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001353s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ app_begin ] --END-- [ RunTime:0.013724s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_template ] --START--
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run LocationTemplate Behavior [ RunTime:0.001052s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_template ] --END-- [ RunTime:0.001130s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_parse ] --START--
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run ParseTemplate Behavior [ RunTime:0.017218s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_parse ] --END-- [ RunTime:0.017311s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_filter ] --START--
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run ContentReplace Behavior [ RunTime:0.000769s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run TokenBuild Behavior [ RunTime:0.000960s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000609s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run ShowRuntime Behavior [ RunTime:0.000801s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003311s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_end ] --START--
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Run ShowPageTrace Behavior [ RunTime:0.000808s ]
+[ 2013-07-16T10:44:38+08:00 ] /myUpLoad/ | INFO: Tag[ view_end ] --END-- [ RunTime:0.000869s ]
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --START--
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run CheckRoute Behavior [ RunTime:0.000938s ]
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --END-- [ RunTime:0.001022s ]
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000461s ]
+[ 2013-07-16T10:44:41+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000505s ]
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --START--
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run CheckRoute Behavior [ RunTime:0.001192s ]
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --END-- [ RunTime:0.001311s ]
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001004s ]
+[ 2013-07-16T10:44:46+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001072s ]
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --START--
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run CheckRoute Behavior [ RunTime:0.000908s ]
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --END-- [ RunTime:0.000992s ]
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000683s ]
+[ 2013-07-16T10:44:49+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000726s ]
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --START--
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run CheckRoute Behavior [ RunTime:0.000992s ]
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --END-- [ RunTime:0.001086s ]
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000908s ]
+[ 2013-07-16T10:45:51+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000980s ]
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --START--
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run CheckRoute Behavior [ RunTime:0.001030s ]
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ route_check ] --END-- [ RunTime:0.001173s ]
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --START--
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000764s ]
+[ 2013-07-16T11:07:06+08:00 ] /myUpLoad/index.php/Index/upload | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000819s ]
